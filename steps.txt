@@ -1,0 +1,9 @@
+create Folder - mkdir <folderName>
+check python and pip installed or not (python --version, pip --version) 
+create virtual environment (python -m venv <virtual_env_name>)
+activate virtual environment (<virtual_env_name>\Scripts\activate) 
+if activate is appeared in Scripts - try execute pip install(pip install virtualenv) then activate the virtualenv
+In virtual environment -
+    install Flask - pip install FLASK_APP
+    
+    continue with Flask application
